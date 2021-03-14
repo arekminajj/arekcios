@@ -2,7 +2,7 @@ import '../styles/globals.css'
 import { useState, useEffect } from "react"
 import useDarkMode from "use-dark-mode"
 import { ThemeProvider } from "styled-components";
-import { lightTheme, darkTheme, GlobalStyles } from "../themeConfig"
+import { lightTheme, darkTheme, GlobalStyles } from "../ThemeConfig"
 import styles from '../styles/app.module.css'
 
 //Material
